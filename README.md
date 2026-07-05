@@ -37,6 +37,10 @@
 
 ## Installation
 
+-youtube
+
+https://youtu.be/tibLFGPDHNk
+
 1. `FX_Weapon_Trail_bake_v1.0.ms` 파일을 다운로드합니다.
 2. 3ds Max를 실행합니다.
 3. 상단 메뉴에서 아래 경로로 실행합니다.
