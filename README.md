@@ -15,6 +15,10 @@
 
 ![Result](images/preview_04.png)
 
+-youtube
+
+https://youtu.be/tibLFGPDHNk
+
 ## Features
 
 - Point A / Point B 기준으로 검기 트레일 메쉬 생성
@@ -36,10 +40,6 @@
 - 생성 오브젝트 이름: 영어 기반
 
 ## Installation
-
--youtube
-
-https://youtu.be/tibLFGPDHNk
 
 1. `FX_Weapon_Trail_bake_v1.0.ms` 파일을 다운로드합니다.
 2. 3ds Max를 실행합니다.
