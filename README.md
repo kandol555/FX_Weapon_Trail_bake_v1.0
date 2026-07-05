@@ -1,0 +1,1 @@
+# FX_Weapon_Trail_bake_v1.0
