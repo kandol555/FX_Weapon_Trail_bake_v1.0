@@ -5,8 +5,6 @@
 
 ## Preview
 
-이미지는 GitHub 저장소 안에 `images` 폴더를 만들고 넣은 뒤 아래 파일명에 맞춰 사용하면 됩니다.
-
 ![Main UI](images/preview_01.png)
 
 ![Mesh Bake](images/preview_02.png)
