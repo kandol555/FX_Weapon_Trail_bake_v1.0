@@ -29,6 +29,9 @@ https://youtu.be/tibLFGPDHNk
 - 샘플 위치 확인용 Debug Point 생성 기능
 - 생성된 메쉬 / 라인 / 전체 FX 오브젝트 삭제 기능
 - 기본 렌더용 재질 자동 적용
+- 생성된 패스(Trail line)에 "Loft" 또는 "Path Deform" 적용 가능
+  (Loft : 패스에 line(splines) 적용 방식)
+  (Path Deform :패스에 Plane(mesh) 적용 방식)
 
 ## Compatibility
 
